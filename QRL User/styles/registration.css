@@ -1,6 +1,5 @@
 main{
     height: 70vh;
-
 }
 
 .REG-Content{
@@ -31,6 +30,9 @@ main{
             border-color: white;
         }
         .FORM-Button{
+            font-weight: 900;
+            color: #2701fe;
+            font-size: 2vh;
             margin-top: 1vh;
             height: 5vh;
             width: 30%;
@@ -47,5 +49,9 @@ main{
         width: 70%;
         text-align: center;
         font-size: 2vh;
-        color: #ff0000;
+        background-color: #ff0000;
+        font-weight: 900;
+        color: #2701fe;
+        padding: 1vh;
+        border-radius: 10px;
     }

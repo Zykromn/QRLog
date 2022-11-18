@@ -31,8 +31,4 @@ main{
         font-weight: bolder;
         cursor: pointer;
     }
-    .repeat-button:hover{
-        transition: 1s;
-        background-color: #0acae7;
-    }
 

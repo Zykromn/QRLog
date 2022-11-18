@@ -32,10 +32,10 @@ main{
         align-items: center;
     }
         .LANL_Item:hover{
-            background-color: #9a9898;
+            background-color: #4040d7;
         }
         .LANL_Item:active{
-            background-color: #c9c6c6;
+            background-color: #5252ef;
         }
         .LANL_ItemIcon{
             width: 20%;
